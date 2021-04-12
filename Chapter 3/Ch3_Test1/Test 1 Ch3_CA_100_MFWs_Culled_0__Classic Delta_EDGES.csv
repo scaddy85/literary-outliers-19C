@@ -1,0 +1,37 @@
+Source,Target,Weight,Type
+Eliot_AdamBede,Eliot_MillontheFloss,6,undirected
+Eliot_AdamBede,Eliot_ScenesofaClerical Life,1,undirected
+Eliot_AdamBede,Eliot_SilasMarner,4,undirected
+Eliot_DanielDeronda,Eliot_FelixHolt,4,undirected
+Eliot_DanielDeronda,Eliot_Middlemarch,6,undirected
+Eliot_DanielDeronda,Eliot_MillontheFloss,1,undirected
+Eliot_DanielDeronda,Eliot_Romola,2,undirected
+Eliot_DanielDeronda,Eliot_TheLiftedVeil,1,undirected
+Eliot_FelixHolt,Eliot_DanielDeronda,4,undirected
+Eliot_FelixHolt,Eliot_Middlemarch,5,undirected
+Eliot_FelixHolt,Eliot_Romola,4,undirected
+Eliot_FelixHolt,Eliot_ScenesofaClerical Life,2,undirected
+Eliot_FelixHolt,Eliot_SilasMarner,1,undirected
+Eliot_Middlemarch,Eliot_DanielDeronda,6,undirected
+Eliot_Middlemarch,Eliot_FelixHolt,5,undirected
+Eliot_Middlemarch,Eliot_MillontheFloss,1,undirected
+Eliot_MillontheFloss,Eliot_AdamBede,6,undirected
+Eliot_MillontheFloss,Eliot_DanielDeronda,1,undirected
+Eliot_MillontheFloss,Eliot_Middlemarch,1,undirected
+Eliot_MillontheFloss,Eliot_ScenesofaClerical Life,4,undirected
+Eliot_MillontheFloss,Eliot_SilasMarner,5,undirected
+Eliot_Romola,Eliot_DanielDeronda,2,undirected
+Eliot_Romola,Eliot_FelixHolt,4,undirected
+Eliot_Romola,Eliot_ScenesofaClerical Life,2,undirected
+Eliot_Romola,Eliot_TheLiftedVeil,3,undirected
+Eliot_ScenesofaClerical Life,Eliot_AdamBede,1,undirected
+Eliot_ScenesofaClerical Life,Eliot_FelixHolt,2,undirected
+Eliot_ScenesofaClerical Life,Eliot_MillontheFloss,4,undirected
+Eliot_ScenesofaClerical Life,Eliot_Romola,2,undirected
+Eliot_ScenesofaClerical Life,Eliot_TheLiftedVeil,2,undirected
+Eliot_SilasMarner,Eliot_AdamBede,4,undirected
+Eliot_SilasMarner,Eliot_FelixHolt,1,undirected
+Eliot_SilasMarner,Eliot_MillontheFloss,5,undirected
+Eliot_TheLiftedVeil,Eliot_DanielDeronda,1,undirected
+Eliot_TheLiftedVeil,Eliot_Romola,3,undirected
+Eliot_TheLiftedVeil,Eliot_ScenesofaClerical Life,2,undirected
